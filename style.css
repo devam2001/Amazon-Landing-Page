@@ -172,4 +172,7 @@ body{
 .cart p{
     position: absolute;
     font-weight: bolder;
+    color: #131a22;
+    top: 7px;
+    left: 23px;
 }
